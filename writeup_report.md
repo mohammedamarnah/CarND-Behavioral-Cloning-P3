@@ -9,13 +9,9 @@ This is my solution to the 3rd project in the udacity self driving car nanodegre
 
 [//]: # (Image References)
 
-[image1]: ./images/figure_1.png "Unbalanced Dataset"
-[image2]: ./images/figure_2.png "Balanced Dataset"
+[image1]: ./images/Figure_1.png "Unbalanced Dataset"
+[image2]: ./images/Figure_2.png "Balanced Dataset"
 [image3]: ./images/architecture.png "Nvidia Architecture"
-[image4]: ./images/placeholder_small.png "Recovery Image"
-[image5]: ./images/placeholder_small.png "Recovery Image"
-[image6]: ./images/placeholder_small.png "Normal Image"
-[image7]: ./images/placeholder_small.png "Flipped Image" 
 
 ---
 
