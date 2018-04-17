@@ -1,5 +1,5 @@
 # **Behavioral Cloning** 
-## An Implementation of NVidia's Paper: **End-to-End Learning for Self Driving Cars**
+## An Implementation of Nvidia's Paper: **End-to-End Learning for Self Driving Cars**
 
 ---
 
