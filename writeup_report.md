@@ -74,7 +74,7 @@ To combat the overfitting, I added regularizers, a dropout and used a subsamplin
 
 The final step was to run the simulator to see how well the car was driving around track one. There were a few spots where the vehicle fell off the track, especially on corners and after the bridge. So, I tried to collect more data, and I lowered the learning rate until I got a working model.
 
-#### 2. Final Model Architecture
+### Final Model Architecture
 
 The final model architecture (model.py lines 86-111) consisted of a convolution neural network with 5 convolution layers and 3 dense layers. The first three convolution layers had a filter size of 5x5, and the last two convolution layers had a filter size of 3x3.
 
